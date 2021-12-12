@@ -4,19 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db17660f-2f17-4cfd-ac27-245ae2e93ce8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP3200-F2021-ICE12.iml" afterDir="false" />
+    <list default="true" id="db17660f-2f17-4cfd-ac27-245ae2e93ce8" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ca/durhamcollege/oop3200f2021ice12/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/durhamcollege/oop3200f2021ice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ca/durhamcollege/oop3200f2021ice12/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/durhamcollege/oop3200f2021ice/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/ca/durhamcollege/oop3200f2021ice12/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ca/durhamcollege/oop3200f2021ice/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ca/durhamcollege/oop3200f2021ice12/HelloApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ca/durhamcollege/oop3200f2021ice12/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ca/durhamcollege/oop3200f2021ice12/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="227oXlMoGAGwou5eTJ5Y3EoqSLz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -27,6 +49,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -37,12 +60,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
-    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ca.durhamcollege.oop3200f2021ice12.HelloApplication" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.durhamcollege.oop3200f2021ice.Main" />
       <module name="OOP3200-F2021-ICE12" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ca.durhamcollege.oop3200f2021ice12.*" />
+          <option name="PATTERN" value="ca.durhamcollege.oop3200f2021ice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,7 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloApplication" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -65,8 +88,18 @@
       <option name="presentableId" value="Default" />
       <updated>1639198032096</updated>
       <workItem from="1639198033869" duration="1710000" />
-      <workItem from="1639245204306" duration="625000" />
+      <workItem from="1639245204306" duration="6820000" />
+      <workItem from="1639265221220" duration="276000" />
+      <workItem from="1639278857013" duration="2583000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1639247757373</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639247757373</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,5 +115,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
