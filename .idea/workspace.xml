@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db17660f-2f17-4cfd-ac27-245ae2e93ce8" name="Changes" comment="Finished Java GUI Application ICE 12">
+    <list default="true" id="db17660f-2f17-4cfd-ac27-245ae2e93ce8" name="Changes" comment="Updated project files">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ca/durhamcollege/oop3200f2021ice/LagrangePAS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ca/durhamcollege/oop3200f2021ice/errorWindow.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ca/durhamcollege/oop3200f2021ice/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/durhamcollege/oop3200f2021ice/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ca/durhamcollege/oop3200f2021ice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/durhamcollege/oop3200f2021ice/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,23 +33,34 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="227oXlMoGAGwou5eTJ5Y3EoqSLz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../OOP-3200- Labs/OOP3200-F2021-JavaLab5" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kat\source\repos\FALL-2021\OOP3200-ICE-ASSIGNMENTS\OOP3200-F2021-ICE13\src\main\java\ca\durhamcollege\oop3200f2021ice" />
+      <recent name="C:\Users\Kat\source\repos\FALL-2021\OOP3200-ICE-ASSIGNMENTS\OOP3200-F2021-ICE13\src\main\resources\ca\durhamcollege\oop3200f2021ice" />
+      <recent name="C:\Users\Kat\source\repos\FALL-2021\OOP3200-ICE-ASSIGNMENTS\OOP3200-F2021-ICE13\src\main" />
+      <recent name="C:\Users\Kat\source\repos\FALL-2021\OOP3200-ICE-ASSIGNMENTS\OOP3200-F2021-ICE13\src\main\resources" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -57,19 +72,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="OOP3200-F2021-ICE13" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="OOP3200-F2021-ICE13" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,6 +97,9 @@
       <workItem from="1639341553266" duration="38000" />
       <workItem from="1639344273396" duration="199000" />
       <workItem from="1639596319710" duration="18000" />
+      <workItem from="1639596891919" duration="2464000" />
+      <workItem from="1639605996056" duration="44000" />
+      <workItem from="1639687583191" duration="7172000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1639247757373</created>
@@ -110,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639285061526</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated project files">
+      <created>1639597052433</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1639597052433</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,8 +140,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Finished Java GUI Application ICE 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Java GUI Application ICE 12" />
+    <MESSAGE value="Updated project files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated project files" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
